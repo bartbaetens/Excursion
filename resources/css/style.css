@@ -1,3 +1,7 @@
+html {
+  background-color: black;
+}
+
 h1,
 h2,
 p, {
@@ -14,11 +18,9 @@ a {
   font-weight: normal;
   color: white;
   text-align: center;
-  background-color: black;
-}
+  }
 
 .middle {
-  background-color:black;
   text-align: center;
 }
 
@@ -30,5 +32,10 @@ a {
 
 .middle p {
   font-size: 21px;
+  color: gray;
+}
+
+.footer {
+  text-align: right;
   color: gray;
 }
