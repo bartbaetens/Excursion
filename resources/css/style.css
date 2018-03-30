@@ -1,0 +1,18 @@
+h1,
+h2,
+p, {
+  font-family: "Verdana" sans-serif;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.header {
+  font-size: 50px;
+  font-weight: normal;
+  color: white;
+  text-align: center;
+  background-color: black;
+}
